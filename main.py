@@ -15,3 +15,10 @@ def numbers():
     print(type(x))
     print(type(y))
     print(type(z))
+
+    # Texting a paragraph
+    a = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(a)
